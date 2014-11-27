@@ -1,0 +1,19 @@
+[
+    {
+        "CONFIG_NAME":
+            {
+            	"WindowsPath":	"",
+            	"MacPath":		"",
+            	"LinuxPath":	"",
+            	"MaxRows":		"",
+            	"ColumnNames": [
+            		{
+            			"Column1":	"",
+            			"Column2":	"",
+            			"Column3":	"",
+            			"Column4":	"",
+            		}
+            	]
+            }
+    }
+]

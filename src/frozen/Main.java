@@ -24,6 +24,7 @@ public class Main extends Applet {
      * This is for running as an applet
      */
     public void init() {
+
         System.out.println("Yay we are doing applet stuff");
     }
 
